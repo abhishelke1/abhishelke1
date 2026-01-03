@@ -1,96 +1,98 @@
-# Hi there, I'm Abhishek Shelke 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=80&lines=Full+Stack+App+%26+Web+Developer;Cyber+Security+Enthusiast;Open-Source+Contributor;Tech+Innovator" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ5dGJ4Y3l5dWx2a3V5Z2Z4Z2U0dWt6eW1zZzV4dWZ5Z3V6eWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Abhishek+Shelke+👋;Full+Stack+Developer+%26+AI+Enthusiast;Information+Technology+Student;Building+Smart+Solutions+with+GenAI" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhishelke42161@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+</div>
 
-## 🚀 About Me
+<br />
+
+## �‍💻 About Me
+
+I am a **3rd-year Information Technology** student at **Sanjivani College of Engineering**, passionate about bridging the gap between Software Development and Artificial Intelligence. I love building systems that solve real-world problems using **Machine Learning**, **IoT**, and **Generative AI**.
+
 ```javascript
 const abhishek = {
-  pronouns: "He/Him",
-  education: "B.Tech in Information Technology",
-  university: "Sajivani College of Engineering",
-  skills: {
-    frontend: ["React", "Three.js", "Tailwind CSS"],
-    backend: ["Node.js", "Spring Boot", "Express"],
-    mobile: ["Android", "Kotlin", "Flutter"],
-    databases: ["MongoDB", "MySQL", "Firebase"],
-    devOps: ["AWS", "Docker", "GitHub Actions"],
-    cybersecurity: ["Ethical Hacking", "Network Security"]
-  },
-  currentFocus: "AI/ML integration in web applications",
-  funFact: "Solved 50+ CTF challenges in 2023"
+    education: "B.Tech in Information Technology (2027 Batch)",
+    university: "Sanjivani College of Engineering, Kopargaon",
+    currentFocus: "GenAI, RAG Pipelines & Android Development",
+    achievements: [
+        "NASA Space Apps Challenge Participant",
+        "Smart India Hackathon (SIH) Participant",
+        "Developing AI-powered Agricultural Solutions"
+    ],
+    hobbies: ["Cybersecurity CTFs", "Tech Blogging", "Hackathons"]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Technical Arsenal
+
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **AI & ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
 
 ---
 
-## 🏆 Projects
+## 🏆 Key Projects
 
-### Courier Management System
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-```markdown
-- Role-based access control system
-- Real-time package tracking
-- Automated SMS/email notifications
-- Interactive dashboard with analytics
-```
+### 🤖 Chat With Your Data (GenAI)
+A RAG-based application allowing users to query their own documents using LLMs.
 
-### AgroEasy Android App
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-```markdown
-- AI-powered plant disease detection
-- Weather forecasting integration
-- Farmer community marketplace
-- Crop price prediction model
-```
+**Tech:** Python, LangChain, OpenAI API, Streamlit.
+
+**Features:** Document parsing, vector embeddings, and context-aware conversational AI.
 
 ---
 
-## 📊 GitHub Stats
+### 🌾 AgroEasy (Smart Agriculture)
+An IoT and AI-enabled Android application to assist farmers.
+
+**Tech:** Kotlin, XML, Firebase, TensorFlow Lite.
+
+**Features:** Plant disease detection using image processing, weather forecasting, and a farmer marketplace.
+
+---
+
+### 🛍️ Smart Shopping AI Assistant
+Personalized recommendation engine for e-commerce.
+
+**Tech:** React.js, Node.js, ML Algorithms.
+
+**Features:** Analyzes user behavior to suggest products, improving customer retention.
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishelke1&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishelke1&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishelke1&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishelke1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishelke1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishelke1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </div>
 
 ---
 
-## 🏅 Certifications
-![AWS](https://img.shields.io/badge/AWS-Cloud_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Awareness-00FF9D?style=for-the-badge&logo=cisco&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Certified_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishelke1&label=Profile+Views&color=00FF9D&style=flat" alt="Profile views" /> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ3Z2R5Z2R5Z2R5Z2R5Z2R5Z2R5Z2R5Z2R5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9O/giphy.gif" width="100"/>
-  <p>⚡ Innovating | 🔐 Securing | 👨💻 Developing</p>
+  <img src="https://komarev.com/ghpvc/?username=abhishelke1&label=Profile%2BViews&color=20C20E&style=flat-square" alt="Profile views" />
+  
+  <p><i>Let's code the future together! �</i></p>
 </div>
